@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/transparent" >
+
+    <LinearLayout
+        android:id="@+id/lay_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/shape_background_assistivetouch"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/Monitor_memON"
+                style="@style/Icon"
+                android:text="@string/Monitor_memON" />
+            
+             <Button
+                android:id="@+id/Monitor_memOFF"
+                style="@style/Icon"
+                android:text="@string/Monitor_memOFF" />
+       
+
+            <Button
+                android:id="@+id/ViewAllRunningPrograms"
+                style="@style/Icon"
+                android:text="@string/ViewAllRunningPrograms" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            
+             <Button
+                android:id="@+id/logcat"
+                style="@style/Icon"
+                android:text="@string/logcat" />
+                       
+             <Button
+                android:id="@+id/cut_Screen"
+                style="@style/Icon"
+                android:text="@string/cut_Screen" />           
+
+            <Button
+                android:id="@+id/edit_speed"
+                style="@style/Icon"
+                android:text="@string/edit_speed" />
+
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            
+            <Button
+                android:id="@+id/ViewSystemProcessInformation"
+                style="@style/Icon"
+                android:text="@string/ViewSystemProcessInformation" />
+
+            <Button
+                android:id="@+id/btn_ex2"
+                style="@style/Icon"
+                android:text="@string/extra_2" />
+
+           
+            <Button
+                android:id="@+id/shutdown"
+                style="@style/Icon"
+                android:text="@string/shutdown" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

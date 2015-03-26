@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/popup_up_in</item>
+        <item name="android:windowExitAnimation">@anim/popup_down_out</item>
+    </style>
+	<style name="Icon">
+        <item name="android:textColor">@color/selector_color_icon</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">80.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+     <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+     <style name="AppTheme" parent="AppBaseTheme"></style>
+</resources>

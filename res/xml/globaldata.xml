@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:key="dstappname" 
+        android:title="@string/titleDstAppName" 
+        android:summary="@string/summeryDstAppName"/>
+    
+    <EditTextPreference android:key="dstapppid" 
+        android:summary="@string/summeryDstAppPID" 
+        android:title="@string/titleDstAppPID"/>
+    
+
+</PreferenceScreen>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Tip_1">存储路径：/Android/data/com.bd.floatball/files/xxx.cvs</string>
+    <string name="app_name">FloatBall</string>
+	<string name="Monitor_memON">ON</string>
+	<string name="Monitor_memOFF">OFF</string>
+    <string name="ViewAllRunningPrograms">APPS</string> 
+    <string name="logcat">logcat</string>
+	<string name="shutdown">shutdown</string>
+	<string name="cut_Screen">...</string>
+	<string name="edit_speed">...</string>
+    <string name="ViewSystemProcessInformation">...</string>
+	<string name="extra_1">...</string>
+	<string name="extra_2">关于</string>
+
+	
+	<string name="action_settings">Settings</string>
+    <string name="titleListapps">List All Running apps</string>
+    <string name="titleDstAppName">DstAppName</string>
+    <string name="summeryDstAppName">DstAppName</string>
+    <string name="titleDstAppPID">DstAppPID</string>
+    <string name="summeryDstAppPID">DstAppPID</string>
+    <string name="titleListApps">Listallrunningapps</string>
+    <string name="titleStartButton">start</string>
+    <string name="titleStopButton">stop</string>
+    <string name="title_StartButton">f_start</string>
+    <string name="title_StopButton">f_stop</string>
+    <string name="titleCurrentAppTips">select a app below</string>
+    <string name="titleReselectAppTips">Please reselect a app below</string>
+	
+	<string name="processID">proID:</string>
+    <string name="processName">proName:</string> 
+    <string name="packageName">pkgName:</string>
+    <string name="APPName">AppLable:</string>
+    <string name="contentDescription">AppIcon</string>
+    <string name="SystemAvailableMemory">系统可用内存：</string>
+    <string name="processUID">processUID</string>
+    <string name="processPSS">processPSS</string>
+    <string name="button_Start">button_Start</string>
+    <string name="button_Stop">button_Stop</string>
+    
+
+    <string name="app_name_paused">Log(paused)</string>
+    <string name="app_prefs">Log-Preferences</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Okay</string>
+    <string name="fatal_title">Fatal</string>
+    <string name="error_title">Error</string>
+    <string name="warn_title">Warning</string>
+    <string name="info_title">Information</string>
+    <string name="verbose_title">Verbose</string>
+    <string name="debug_title">Debug</string>
+    <string name="filter_menu">Filter (%s)</string>
+    <string name="filter_dialog_title">Log Filter</string>
+    <string name="filter_menu_empty">Filter</string>
+    <string name="filter_dialog_text">A log filter can be a simple substring or a Java-conforming regular expression.</string>
+    <string name="pattern_error_text">Invalid regular expression</string>
+    <string name="clear">Clear</string>
+    <string name="brief_title">Brief</string>
+    <string name="process_title">Process</string>
+    <string name="tag_title">Tag</string>
+    <string name="thread_title">Thread</string>
+    <string name="raw_title">Raw</string>
+    <string name="time_title">Time</string>
+    <string name="long_title">Long</string>
+    <string name="reading_logs">Reading logs, please wait.</string>
+    <string name="share_menu">Share</string>
+    <string name="play_menu">Play</string>
+    <string name="pause_menu">Pause</string>
+    <string name="jump_start_menu">Top</string>
+    <string name="jump_end_menu">Bottom</string>
+    <string name="main_title">Main</string>
+    <string name="events_title">Events</string>
+    <string name="radio_title">Radio</string>
+    <string name="small_title">Small</string>
+    <string name="medium_title">Medium</string>
+    <string name="large_title">Large</string>
+    <string name="clear_menu">Clear</string>
+    <string name="save_menu">Save</string>
+    <string name="prefs_menu">Preferences</string>
+    <string name="saving_log">Saving log to: %s, please wait</string>
+    <string name="threadtime_title">Thread Time</string>
+    <string name="black_title">Black</string>
+    <string name="white_title">White</string>
+    <string name="gray_title">Gray</string>
+	<string name="apply_as_regexp">Apply as regular expression</string>
+	
+	<string name="Level">Level</string>
+	<string name="Format">Format</string>
+	<string name="Buffer">Buffer</string>
+	<string name="Text_size">Text size</string>
+	<string name="Background_color">Background color</string>
+	<string name="Keep_Screen_On">Keep Screen On</string>
+	<string name="HTML">HTML</string>
+	<string name="Log_Output">Log Output</string>
+	<string name="Log_Display">Log Display</string>
+</resources>
